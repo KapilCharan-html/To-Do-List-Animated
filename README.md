@@ -42,14 +42,9 @@ This project is licensed under the MIT License.
 👨‍💻 Developer
 Kapil Charan Mellacheruvu
 📧 kapilcharan207@gmail.com
-🔗 LinkedIn
-💻 GitHub
+🔗 LinkedIn :www.linkedin.com/in/kapil-charan-mellacheruvu
+💻 GitHub:https://github.com/KapilCharan-html
 
-vbnet
-Copy
-Edit
-
-Would you like me to generate and send this as a downloadable `README.md` file or add other badges (e.g., GitHub stars, forks, etc.)?
 
 
 
